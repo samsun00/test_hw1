@@ -1,6 +1,6 @@
 # Health Status
 
-[![Run Tests](https://github.com/samsun00/test_hw1/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/tests.yml)
+[![Run Tests](https://github.com/samsun00/test_hw1/actions/workflows/tests.yml/badge.svg)](https://github.com/samsun00/test_hw1/actions/workflows/tests.yml)
 
 ## Описание
 
